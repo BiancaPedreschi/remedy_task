@@ -1,6 +1,41 @@
 # Ignora directory specifiche
+# Ignora directory specifiche
 Library/Containers/
 Library/PersonalizationPortrait/
 Library/Metadata/
 Library/Cookies/
 Library/Caches/
+Library/Application\ Support/MobileSync/
+Library/Application\ Support/CallHistoryTransactions/
+Library/Application\ Support/com.apple.sharedfilelist/
+Library/Application\ Support/com.apple.TCC/
+Library/Application\ Support/FileProvider/
+Library/Application\ Support/CallHistoryDB/
+Library/Autosave\ Information/
+Library/IdentityServices/
+Library/Messages/
+Library/HomeKit/
+Library/Sharing/
+Library/Mail/
+Library/Safari/
+Library/Suggestions/
+Library/Containers/com.apple.VoiceMemos/
+Library/Containers/com.apple.archiveutility/
+Library/Containers/com.apple.Home/
+Library/Containers/com.apple.Safari/
+Library/Containers/com.apple.iChat/
+Library/Containers/com.apple.CloudDocs.MobileDocumentsFileProvider/
+Library/Containers/com.apple.mail/
+Library/Containers/com.apple.news/
+Library/Containers/com.apple.stocks/
+Library/PersonalizationPortrait/
+Library/Metadata/CoreSpotlight/
+Library/Metadata/com.apple.IntelligentSuggestions/
+Library/Cookies/
+Library/Caches/com.apple.safaridavclient/
+Library/Caches/com.apple.HomeKit.configurations/
+Library/Caches/CloudKit/
+Library/Caches/com.apple.Safari/
+Library/Caches/com.apple.Safari.SafeBrowsing/
+Library/Caches/com.apple.ap.adprivacyd/
+.Trash/
