@@ -1,0 +1,6 @@
+# Ignora directory specifiche
+Library/Containers/
+Library/PersonalizationPortrait/
+Library/Metadata/
+Library/Cookies/
+Library/Caches/
